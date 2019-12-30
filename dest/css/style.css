@@ -25,7 +25,11 @@
       opacity: 0.9; }
     .container .work :hover {
       opacity: 0.6; }
-
+ .img-responsive{
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
 .intro {
   min-height: 90vh;
   display: -webkit-box;
